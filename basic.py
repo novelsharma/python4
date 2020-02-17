@@ -28,3 +28,4 @@ cost =novel_sharma + raju_sharma + saju_sharma + pabel_sharma
 print(f"Full cost: {cost}")
 
 print('Hello Bangladesh')
+print("Novel")
